@@ -1,0 +1,232 @@
+{
+  "color": [
+    {
+      "name": "background_primary",
+      "value": "#0D1B2A"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#1B2838"
+    },
+    {
+      "name": "background_tertiary",
+      "value": "#243447"
+    },
+    {
+      "name": "surface_card",
+      "value": "#1B2838"
+    },
+    {
+      "name": "surface_input",
+      "value": "#162332"
+    },
+    {
+      "name": "surface_elevated",
+      "value": "#243447"
+    },
+    {
+      "name": "primary",
+      "value": "#1ED760"
+    },
+    {
+      "name": "primary_variant",
+      "value": "#1ABC54"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#17A34A"
+    },
+    {
+      "name": "primary_container",
+      "value": "#0D3320"
+    },
+    {
+      "name": "on_primary",
+      "value": "#0D1B2A"
+    },
+    {
+      "name": "accent_red",
+      "value": "#E53935"
+    },
+    {
+      "name": "accent_red_container",
+      "value": "#B71C1C"
+    },
+    {
+      "name": "on_accent_red",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8B9CAD"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#5C7080"
+    },
+    {
+      "name": "text_hint",
+      "value": "#6B7C8A"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#4A5568"
+    },
+    {
+      "name": "text_link",
+      "value": "#1ED760"
+    },
+    {
+      "name": "icon_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "icon_secondary",
+      "value": "#8B9CAD"
+    },
+    {
+      "name": "icon_tertiary",
+      "value": "#5C7080"
+    },
+    {
+      "name": "border_default",
+      "value": "#2D4052"
+    },
+    {
+      "name": "border_focus",
+      "value": "#1ED760"
+    },
+    {
+      "name": "border_error",
+      "value": "#E53935"
+    },
+    {
+      "name": "divider",
+      "value": "#243447"
+    },
+    {
+      "name": "button_primary_bg",
+      "value": "#1ED760"
+    },
+    {
+      "name": "button_primary_text",
+      "value": "#0D1B2A"
+    },
+    {
+      "name": "button_secondary_bg",
+      "value": "#1B2838"
+    },
+    {
+      "name": "button_secondary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_outline_border",
+      "value": "#2D4052"
+    },
+    {
+      "name": "button_outline_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_disabled_bg",
+      "value": "#243447"
+    },
+    {
+      "name": "button_disabled_text",
+      "value": "#5C7080"
+    },
+    {
+      "name": "tab_active_bg",
+      "value": "#243447"
+    },
+    {
+      "name": "tab_active_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_inactive_bg",
+      "value": "#1B2838"
+    },
+    {
+      "name": "tab_inactive_text",
+      "value": "#8B9CAD"
+    },
+    {
+      "name": "input_background",
+      "value": "#162332"
+    },
+    {
+      "name": "input_border",
+      "value": "#2D4052"
+    },
+    {
+      "name": "input_border_focus",
+      "value": "#1ED760"
+    },
+    {
+      "name": "input_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "input_placeholder",
+      "value": "#6B7C8A"
+    },
+    {
+      "name": "input_icon",
+      "value": "#5C7080"
+    },
+    {
+      "name": "social_google_bg",
+      "value": "#1B2838"
+    },
+    {
+      "name": "social_apple_bg",
+      "value": "#1B2838"
+    },
+    {
+      "name": "social_border",
+      "value": "#2D4052"
+    },
+    {
+      "name": "error",
+      "value": "#E53935"
+    },
+    {
+      "name": "warning",
+      "value": "#FFA726"
+    },
+    {
+      "name": "success",
+      "value": "#1ED760"
+    },
+    {
+      "name": "info",
+      "value": "#29B6F6"
+    },
+    {
+      "name": "overlay",
+      "value": "#000000"
+    },
+    {
+      "name": "overlay_opacity",
+      "value": "#80000000"
+    },
+    {
+      "name": "ripple",
+      "value": "#1A1ED760"
+    },
+    {
+      "name": "shadow",
+      "value": "#40000000"
+    },
+    {
+      "name": "card_list_item_bg",
+      "value": "#000E2A44"
+    }
+  ]
+}

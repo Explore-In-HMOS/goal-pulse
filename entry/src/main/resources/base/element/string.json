@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_title",
+      "value": "GOAL PULSE"
+    },
+    {
+      "name": "base_url",
+      "value": "https://v3.football.api-sports.io"
+    },
+    {
+      "name": "user_pref_key",
+      "value": "user_pref"
+    },
+    {
+      "name": "lang_key",
+      "value": "lang"
+    },
+    {
+      "name": "team_key",
+      "value": "team"
+    },
+    {
+      "name": "league_key",
+      "value": "league"
+    },
+    {
+      "name": "onboarding_key",
+      "value": "onboarding"
+    },
+    {
+      "name": "onbaording_back",
+      "value": "← Back"
+    },
+    {
+      "name": "getPref_throw_error",
+      "value": "PreferencesService not initialized. Call init(context) in EntryAbility.onCreate()."
+    }
+  ]
+}
