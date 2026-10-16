@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # GoalPulse
 Goal Pulse is a HarmonyOS Next wearable app designed to deliver an immersive football companion experience on the wrist. At onboarding, users select their favorite team, and the app provides real-time match data including live scores, upcoming fixtures, and key match events fetched from a live sports API. With Notification Kit integration, users receive instant alerts for goals, match starts, and final results, while smooth animations enhance the excitement of following matches directly on the wearable interface.
